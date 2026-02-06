@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋 I'm Vikash Khatri
 
-<!--
-**VikashKhatri95/VikashKhatri95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate .NET Developer from India  
+💻 ASP.NET MVC | .NET Core | Web API | SQL | Angular  
+🌍 Targeting international remote developer opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on: ASP.NET MVC & .NET Core Projects  
+- 🌱 Currently learning: Web API, Angular, System Design  
+- 🎯 Goal: Become a high-paying full stack .NET developer  
+- 💡 Love building real-world projects and solving coding problems  
+- ⚡ Strong interest in backend development & data handling  
+
+---
+
+## 🛠️ Tech Stack
+**Backend**
+- C#
+- ASP.NET MVC
+- .NET Core
+- Web API
+- LINQ
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- Angular
+
+**Database**
+- SQL Server
+- Stored Procedures
+
+**Tools**
+- Visual Studio
+- VS Code
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+🔐 Login Authentication System (Angular + Web API)  
+🐐 Goat Management System (.NET Core MVC)  
+🐄 Cattle Management System  
+📊 SQL & LINQ Practice Projects  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: Add your LinkedIn link
+- 📧 Email: Add your email
+
+---
+
+⭐ Consistency + Projects = High Paying Job
