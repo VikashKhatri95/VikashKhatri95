@@ -1,8 +1,8 @@
 # Hi 👋 I'm Vikash Khatri
 
-🚀 Passionate .NET Developer from India  
-💻 ASP.NET MVC | .NET Core | Web API | SQL | Angular  
-🌍 Targeting international remote developer opportunities  
+💼 Full Stack .NET Developer (ASP.NET MVC | .NET Core | Web API | Angular)  
+🌍 Open to high-paying jobs & international remote opportunities  
+🚀 Building real-world scalable web applications
 
 ---
 
